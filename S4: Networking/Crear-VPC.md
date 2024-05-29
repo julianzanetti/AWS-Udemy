@@ -10,4 +10,6 @@
 
 ### Agregamos algunas etiquetas y lanzamos nuestra VPC.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/8b3e970a-a205-4f67-bab1-a5c54508e9d6)
-![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/e5ad6ceb-952c-4223-b65b-c45cb7796abd)
+
+### Lista la VPC.
+![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/5885a405-14a9-4ebb-bd1f-24fd2d9c8bc8)
