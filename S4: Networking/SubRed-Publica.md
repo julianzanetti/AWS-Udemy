@@ -47,4 +47,5 @@ Habilitamos esa opcion, que lo que hace es que todas las instancias creadas dent
 
 ### Configurar DNS a la VPC.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/62953a90-e060-4e92-be32-e0427cea7259)
+
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/cbe97c14-dc9e-43a0-a2b3-eb9e8237e14f)
