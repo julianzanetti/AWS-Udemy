@@ -39,8 +39,12 @@ Configuramos nuestra tabla de ruta.
 Seleccionamos nuestra tabla de ruta y guardamos cambios.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/d65c15b9-1d90-4de4-be80-7e1d6a207263)
 
-### Asignamos IP publica a la subred.
+### Configurar IP publica a la subred.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/ac94e767-0108-45f4-9357-f44e74ef07a6)
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/3d4f5c09-a7e0-4d70-96a0-24eaa6288d79)
 
 Habilitamos esa opcion, que lo que hace es que todas las instancias creadas dentro de esta subred, automaticamente le asigna una IP publica.
+
+### Configurar DNS a la VPC.
+![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/62953a90-e060-4e92-be32-e0427cea7259)
+![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/cbe97c14-dc9e-43a0-a2b3-eb9e8237e14f)
