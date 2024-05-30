@@ -1,4 +1,4 @@
-![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/b87a7e97-6794-438d-8fa3-b722ef965a76)# Subred Publica
+# Subred Publica
 #### Panorama general de una VPC con sus respectivas zonas y una subred publica con Internet Gatewey.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/38f6a743-849b-4b70-8ac0-2e6f95d9c5e1)
 
@@ -10,6 +10,7 @@ Vemos que esta subred se vincula a la misma tabla de ruta ya que estamos en la m
 
 ### Creamos un Internet gateway en esta ruta.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/602e8687-e26e-4070-b5fe-3b01772ba07b)
+
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/282510d4-7652-4d4b-99b5-f6b97ef40074)
 
 ### Asociar nuestro gateway a la VPC.
@@ -37,3 +38,9 @@ Configuramos nuestra tabla de ruta.
 
 Seleccionamos nuestra tabla de ruta y guardamos cambios.
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/d65c15b9-1d90-4de4-be80-7e1d6a207263)
+
+### Asignamos IP publica a la subred.
+![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/ac94e767-0108-45f4-9357-f44e74ef07a6)
+![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/3d4f5c09-a7e0-4d70-96a0-24eaa6288d79)
+
+Habilitamos esa opcion, que lo que hace es que todas las instancias creadas dentro de esta subred, automaticamente le asigna una IP publica.
