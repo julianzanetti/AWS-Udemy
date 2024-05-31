@@ -4,6 +4,7 @@
 
 ### Elegimos la plantilla, su version y cantidad de instancias a lanzar.
 ![image](https://github.com/julianzanetti/Aws-Udemy/assets/134458575/656b62d1-cf86-4515-b6b8-d6174afd0a57)
+
 ![image](https://github.com/julianzanetti/Aws-Udemy/assets/134458575/57fae7de-ef67-4e5e-817b-801e0b8752d6)
 
 Y siplemente damos en el boton de lanzar instancia.
