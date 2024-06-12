@@ -18,3 +18,6 @@
 ![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/2b1924f7-e99b-4679-a434-bdf09cbb0246)
 #### Lanzar: Inicia la nueva instancia y espera a que vos elijas terminar la otra o que Amazon directamente la termine.
 #### Terminar: Inicia la nueva instancia y elimina la que sustituye.
+
+## Podemos elegir el maximos costo a pagar por nuestra flota de instancias Spot.
+![image](https://github.com/julianzanetti/AWS-Udemy/assets/134458575/f00e1870-c256-47db-b045-b1c9249a7500)
