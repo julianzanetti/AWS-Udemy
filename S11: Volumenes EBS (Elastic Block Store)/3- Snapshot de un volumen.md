@@ -1,4 +1,4 @@
-# Crear un snapshot de un volumen y crear un volumen desde un snapshot.
+# Crear un snapshot de un volumen, crear un volumen desde un snapshot y asociarlo a una nueva instancia.
 ## Creamos algunos archivos dentro de nuestro volumen.
 ![image](https://github.com/user-attachments/assets/d7340b34-4045-4318-ae8a-0c4ac7e923e5)
 
