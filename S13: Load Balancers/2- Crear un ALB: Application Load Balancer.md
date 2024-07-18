@@ -1,4 +1,4 @@
-# Crear un ALB: Application Load Balancer.
+# Crear un ALB: Application Load Balancer y probarlo.
 ## Nos dirigimos a esta ruta.
 ![image](https://github.com/user-attachments/assets/e9886a48-fbb4-4343-8f12-0d6e91c5be80)
 
@@ -24,3 +24,13 @@
 
 ## Verificamos en el Target Group.
 ![image](https://github.com/user-attachments/assets/5ae8c285-f0ad-47a4-8251-e4229673073b)
+
+## Probamos el ALB creado ingresando con el DNS del balanceador.
+### Ingreso n°1:
+![image](https://github.com/user-attachments/assets/d8354fc0-3c4c-4437-aefe-976240640a23)
+
+### Ingreso n°2:
+![image](https://github.com/user-attachments/assets/5b50cdd1-b306-43f4-aa20-036b1dda114a)
+
+### Ingreso n°3:
+![image](https://github.com/user-attachments/assets/3cadf9d3-74b2-4921-a7f9-0757c8c3a63f)
