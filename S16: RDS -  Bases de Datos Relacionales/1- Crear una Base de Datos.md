@@ -41,5 +41,9 @@
 ### Podemos habilitar la proteccion contra eliminacion.
 ![image](https://github.com/user-attachments/assets/7b5f3be5-39ef-4a85-a868-1bcd5c4ace1d)
 
-## BD creada.
+## BD creada, probamos conectarnos.
 ![image](https://github.com/user-attachments/assets/2827480d-28bc-4d11-837e-ea2b4446079a)
+```
+mysql -u root -p -h 
+```
+![image](https://github.com/user-attachments/assets/49adec18-fc9c-4c2a-98a7-a89416375979)
