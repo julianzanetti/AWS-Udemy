@@ -27,7 +27,8 @@
 ![image](https://github.com/user-attachments/assets/86cac451-50cd-4c7c-9687-5464cd01a8a3)
 
 ## Promover una replica.
-
-## Verificar que se haya promovido.
+![image](https://github.com/user-attachments/assets/31d200ad-581a-4c13-aa68-290d12b28482)
+![image](https://github.com/user-attachments/assets/2b0912ad-ec6d-4be6-b46e-015e06b7ee67)
 
 ## Borrar Replica.
+![image](https://github.com/user-attachments/assets/09d96032-0d6f-486b-a91d-2ba42c82eff1)
