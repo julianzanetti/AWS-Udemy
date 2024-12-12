@@ -19,3 +19,6 @@
 
 > [!NOTE]
 > Failover priority: Seleccionamos que replica actue como master cuando la primaria se caiga.
+
+## BD creada con su respectiva replica en solo lectura.
+![image](https://github.com/user-attachments/assets/9d2349a9-efb7-4878-9d4a-ae06cc155fd5)
