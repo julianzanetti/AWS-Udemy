@@ -16,6 +16,10 @@ systemctl enable mariadb
 systemctl status mariadb
 ```
 - ### Conectarnos a nuestra instancia EC2 y pasamos nuestros archivos sql.
+> [!NOTE]
+> Los archivos .sql quedaron alojados dentro de la Carpeta S19: RDS - Migracion de Base de Datos.
+> Los dos archivos son archivos de ejemplos.
+
 - ### Ingresamos a nuestro mariadb y creamos nuestra BD.
 ```
 sudo mysql -u root -p
