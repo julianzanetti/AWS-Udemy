@@ -1,0 +1,34 @@
+# Preparar el entorno para el ejemplo de Replica.
+- ### Crear una BD en RDS (en nuestro ejemplo vamos a utilizar un mariadb).
+- ### Vamos a utilizar una instancia EC2 con acceso publico como servidor para nuestra BD.
+> [!NOTE]
+> Si tenemos que realizar una migracion desde un On-premise, recordar que DMS (Database Migration Service) tiene que tener acceso a nuestra Base de Datos.
+> Es decir, nuestra BD tiene que estar accesible para DMS.
+
+- ### Instalar mariadb en nuestro servidor.
+```
+sudo amazon-linux-extras install mariadb
+```
+- ### Iniciar mariadb.
+```
+systemctl start mariadb
+systemctl enable mariadb
+systemctl status mariadb
+```
+- ### Conectarnos a nuestra instancia EC2 y pasamos nuestros archivos sql.
+- ### Ingresamos a nuestro mariadb y creamos nuestra BD.
+```
+sudo mysql -u root -p
+create database curso_aws;
+```
+- ### Cargamos los datos a nuestra nueva BD.
+```
+use curso_aws;
+source /home/empleados.sql
+source /home/productos.sql
+```
+- ### Verificamos que se haya cargado correctamente.
+```
+show tables;
+select * from empleados;
+```
