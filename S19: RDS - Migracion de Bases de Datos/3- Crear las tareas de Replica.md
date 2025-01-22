@@ -17,4 +17,4 @@
 ![image](https://github.com/user-attachments/assets/157b012b-5862-4298-b223-9a5c6b689b8f)
 
 ## Finalizamos la configuracion.
-![image](https://github.com/user-attachments/assets/4490f152-83f8-4692-859c-f9d0a8f2e0d6)
+![image](https://github.com/user-attachments/assets/1f43871d-7125-49b9-8577-631ba1cc0ed5)
