@@ -20,3 +20,6 @@
 
 ## Configuramos el periodo de mantenimiento de nuestra instancia.
 ![image](https://github.com/user-attachments/assets/2a0b4251-255c-4f7d-8711-8ecb82fc6838)
+
+## Visualizamos la instancia de replicacion.
+![image](https://github.com/user-attachments/assets/ab7c3d71-b7da-4ba9-9036-9e25b05cf8c4)
