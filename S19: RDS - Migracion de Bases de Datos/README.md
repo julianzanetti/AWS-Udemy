@@ -60,7 +60,7 @@ select * from empleados;
 ```
 mysql -u root -p
 create user 'dms'@'%' identified by 'migracion';
-grant all on curso_aws.* to 'dms'@'%'
+grant all on curso_aws. * to 'dms'@'%';
 ```
 ![image](https://github.com/user-attachments/assets/f6f8b657-b89a-490b-8260-39f6e4135562)
 
