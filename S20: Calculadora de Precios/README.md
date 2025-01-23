@@ -14,3 +14,6 @@ https://calculator.aws/#/
 
 - ### Podemos añadir mas opciones.
 ![image](https://github.com/user-attachments/assets/ae5b8671-da7c-4494-8e4a-6c4f10965714)
+
+- ### Une vez finalizado, podemos armar un presupuesto gral agregando mas servicios.
+![image](https://github.com/user-attachments/assets/4b3e6595-3aad-4d48-aca2-35fbbec1eda2)
