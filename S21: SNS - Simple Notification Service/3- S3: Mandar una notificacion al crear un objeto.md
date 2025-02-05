@@ -2,10 +2,10 @@
 ![image](https://github.com/user-attachments/assets/e1b1c87f-a0b2-46e4-abcd-11e57cd16694)
 
 ## Antes debemos darle los permisos necesarios a S3 en SNS.
-- Nos dirigimos a nuestro topic.
+- ### Nos dirigimos a nuestro topic.
 ![image](https://github.com/user-attachments/assets/439c0b75-1688-4a4b-9960-f0615237d171)
 
-- Editamos la politica de acceso para que S3 pueda esrcibir.
+- ### Editamos la politica de acceso para que S3 pueda esrcibir.
 ```
 {
     "Version": "2012-10-17",
