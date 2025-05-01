@@ -40,4 +40,5 @@ Ahora, en la BBDD creada con el paremeter group configurado y los logs activado,
 
 > [!NOTE]
 > En una subnet, tarjetas de red y en las instancias también podemos crear un flowlog. Ahora que hemos creado un flow log a nivel de VPC todas estas han heredado este flowlog.
+
 ![image](https://github.com/user-attachments/assets/0ef5cb5e-62bb-4f20-9030-a1b2efed2e52)
