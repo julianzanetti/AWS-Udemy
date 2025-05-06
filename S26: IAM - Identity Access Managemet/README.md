@@ -1,6 +1,6 @@
 # IAM Identify Access Management. Gestión de identidades en AWS
 - Se debe dejar de trabajar con el usuario root inicial.
-![image](https://github.com/user-attachments/assets/6458894f-82d0-47e5-a63c-2c1848fffcad)
+![image](https://github.com/user-attachments/assets/f2e65a97-3cd0-48c6-a3a9-b46702dee58e)
 
 - IAM permite definir el acceso a los recursos de AWS:
   - **`Recurso IAM`**: Usuarios, grupos, roles, políticas, providers.
