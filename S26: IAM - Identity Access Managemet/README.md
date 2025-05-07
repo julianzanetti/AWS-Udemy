@@ -44,6 +44,7 @@
 - Para gestionar el acceso a un usuario o rol a AWS se crean políticas para luego asignarselas.
 - Es un objeto AWS que al ser asignado a un usuario o recurso define sus permisos, por lo tanto identifican que se puede o no se puede hacer.
 - Suelen estar hechas con un fichero JSON.
+
 ![image](https://github.com/user-attachments/assets/2c376719-508e-4bcf-9968-755e1159148f)
 
 ### Tipos de políticas:
