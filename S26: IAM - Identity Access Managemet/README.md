@@ -52,3 +52,13 @@
   - **`Manager`**: Políticas independientes que pueden ser asignadas a multiples usuarios, grupos o roles. Pueden ser creadas por AWS o personalizadas por nosotros. (Uso mas habitual)
   - **`Inline`**: Se integran en un usuario, grupo o rol. Son las menos adecuadas.
 - **`Resource-Based Policies`**: Se asocian a un determinado recurso AWS (por ejemplo S3) y determinan las acciones que se pueden hacer sobre ese recurso.
+
+### Access Advisor:
+- Es una herramienta para poder comprobar que clases de políticas tiene un grupo o un usuario.
+![image](https://github.com/user-attachments/assets/d7bd794e-f1c7-4e65-b1f8-12e30b404702)
+
+## Consola IAM.
+![image](https://github.com/user-attachments/assets/9844e0cc-52e9-4d07-ab55-ff236a1e02a2)
+- **`ID de cuenta`**: Es única, la comparten root y todos los usuarios que se creen.
+- **`Alias de cuenta`**: Es único para cada usuarios que se cree.
+- **`URL de acceso`**: Para los usuarios IAM
