@@ -20,3 +20,10 @@
 ### Ejemplo de un documento con vista JSON
 ![image](https://github.com/user-attachments/assets/d3d9e12c-c459-4809-8a8c-824f07dfa487)
 - Este documento sería una fila, se podría subir a una collection, que sería una tabla.
+
+## Arquitectura.
+- Un cluster consta de 0 a 16 instancias y un volumen de almacenamiento de cluster que gestiona los datos de esas instancias.
+- Los datos del clúster se almacenan en el volumen del clúster con copias en tres zonas de disponibilidad diferentes.
+![image](https://github.com/user-attachments/assets/73f6f275-9b5d-4e29-a083-ee8a93dfc348)
+
+- El cluster volume es el almacenamiento global. Solo escriben datos la instancia primaria. Tanto la primaria como las réplicas leen datos.
