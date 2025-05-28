@@ -29,3 +29,6 @@
 ## Configuracion de red.
 ![image](https://github.com/user-attachments/assets/1d1eb058-3f96-4f9a-95de-d1cb8edf2f4e)
 ![image](https://github.com/user-attachments/assets/4122ddf7-8a76-41f0-866b-a3b6d7b69042)
+
+## Visualizacion.
+![image](https://github.com/user-attachments/assets/0988114e-d5ab-4336-95cf-403c58b486cf)
