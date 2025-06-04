@@ -24,3 +24,9 @@
   - `Networking`: Se puede crear IP estática, Balanceador de carga de HTTP y HTTPS, CDN (Content Delivery Netowrk) y Zona DNS.
   - `Storage`: Podemos crear Buckets y Discos
   - `Snapshots`
+
+- En los `contenedores` se pueden subir imagenes personalizadas de docker desde local usando AWS CLI. Hay que tener en cuenta que debemos tener un contenedor creado en Lightsail, debemos tener la imagen construida en docker local (A través de Dockerfile o como se quiera) y necesitamos el 
+plugin “Lightsail control”. El comando para subir la imagen:
+```
+aws lightsail push-container-image --region <nombre-region> --service-name <nombrecontenedor-en-lightsail --label <nombre-nuevo-contenedor --image <nombre-imagen-docker>
+```
