@@ -20,7 +20,7 @@
     - Se escoge el plan.
       ![image](https://github.com/user-attachments/assets/d1d896dd-7887-484f-a6e7-a9bd9d9dc2dd)
   - `Containers`: Podemos crear nuestros contenedores Docker, como si fuese ECS (Elastic Containers Services) o EKS (Elastic Kubernetes Services) pero con una gestión simple.
-  - `Databases`: La creación es bastante parecida a la opción “easy” de RDS.
-  - `Networking`:
-  - `Storage`:
+  - `Databases`: La creación es bastante parecida a la opción “easy" de RDS. Podemos escoger entre MySQL y PostgreSQL.
+  - `Networking`: Se puede crear IP estática, Balanceador de carga de HTTP y HTTPS, CDN (Content Delivery Netowrk) y Zona DNS.
+  - `Storage`: Podemos crear Buckets y Discos
   - `Snapshots`
