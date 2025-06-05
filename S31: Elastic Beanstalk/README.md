@@ -14,3 +14,10 @@
 - Crea un bucket, un grupo de seguridad, un target group, crea una instancia en EC2, un grupo de autoescalado, alarmas CloudWatch y un balanceador de carga.
 - Si ingresamos al dominio proporcionado vemos nuestra aplicacion web de ejemplo.
 ![image](https://github.com/user-attachments/assets/28b10f1e-f66d-40c6-9731-1855813a2a28)
+
+## Politica de despliegues.
+- **`All at once`**: Es el despliegue más rápido porque actualiza en todas las instancias al mismo tiempo, pero durante ese tiempo la aplicación estará parada.
+- **`Rolling`**: No habrá indisponibilidad. Irá actualizando una instancia trás otra. Se puede indicar porcentaje de máquinas en cada actualización o el número de máquinas que actualiza a la vez
+- **`Rolling with additional batch`**: Tarda un poco más en acabar la actualización que el anterior, porque creará nueva instancias para poder atender las peticiones de los usuarios. Se podrá mantener el ancho de banda.
+- **`Immutable`**: No actualiza instancias, crea nuevas y vuelve a desplegar la aplicación. Es el que más tarda.}
+![image](https://github.com/user-attachments/assets/6c828a7c-f079-4400-bebb-9e9b9a049c9d)
