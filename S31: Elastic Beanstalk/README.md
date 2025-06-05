@@ -21,3 +21,7 @@
 - **`Rolling with additional batch`**: Tarda un poco más en acabar la actualización que el anterior, porque creará nueva instancias para poder atender las peticiones de los usuarios. Se podrá mantener el ancho de banda.
 - **`Immutable`**: No actualiza instancias, crea nuevas y vuelve a desplegar la aplicación. Es el que más tarda.}
 ![image](https://github.com/user-attachments/assets/6c828a7c-f079-4400-bebb-9e9b9a049c9d)
+
+## Restaurar entorno
+- Cuando finalizamos un entorno podemos volver a restaurar el mismo en la ultima version como se dejo.
+![image](https://github.com/user-attachments/assets/3f29817f-b7a9-455b-bcfb-f109b17d49ed)
