@@ -15,8 +15,14 @@
 - Estandar:
   - Tienen un nivel de procesamiento ilimitada.
   - Los mensajes se entregan al menos una vez.
-  - El orden de entrega puede ser distinto al del envío. La aplicación tiene que ser consciente de este hecho y tratar el mensaje de forma coherente
+  - El orden de entrega puede ser distinto al del envío. La aplicación tiene que ser consciente de este hecho y tratar el mensaje de forma coherente.
 - FIFO – First In First Out:
   - Se admiten hasta 300 mensajes por segundo y agrupando se pueden conseguir hasta 3000 mensajes por segundo.
   - Los mensajes solo se mandan una vez hasta que se procesan y eliminan. No se introducen duplicados.
   - El orden de entrega es igual al del envío.
+  - En las colas FIFO solo se envía un mensaje.
+
+- ### Ciclo de vida Cola Estanadar:
+  - Un componente envía un mensaje a la cola de SQS, se reparte entre servidores.
+  - Otro componente pide el mensaje con un pull y empieza lo que se llama el VTC (Visibility Timeout Clock). Durante cierto tiempo el mensaje estará oculto mientras que el componente 2 no lo proceso.
+  - Cuando el componente 2 procesa el mensaje se elimina de los servidores.
